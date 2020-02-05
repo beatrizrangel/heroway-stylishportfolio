@@ -1,0 +1,48 @@
+.background-header{
+    width: 100%;
+    height:500px;
+}
+
+.background-img {
+    display:flex;
+    position:relative;
+}
+
+.content-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pincher {
+    display: flex ;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-header{
+    background-color: rgb(44, 51, 255);
+    color:white;
+    border:none;
+    text-align: center;
+    padding: 20px;
+    font-family: arial;
+    font-size:14px;
+    margin-top: 35px;
+    border-radius: 4px;
+    height: 45px;
+}
+
+
+.font-title {
+    font-size: 45px;
+    color:rgb(33, 37, 41)
+}
+
+.font-subtitle {
+    font-style: italic;
+    color:rgb(33, 37, 41)
+}

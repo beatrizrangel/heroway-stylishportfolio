@@ -1,0 +1,39 @@
+.btn-offer{
+    background-color: rgb(52, 58, 64);
+    color:white;
+    border:none;
+    text-align: center;
+    padding: 20px;
+    font-family: arial;
+    font-size:14px;
+    margin-top: 31px;
+    border-radius: 3px;
+    height: 45px;
+}
+
+.center {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 65px;
+}
+
+.title-offer{
+    color:rgb(33, 37, 41);
+    font-size: 22px;
+ }
+ 
+.subtitle-offer{
+   color:rgb(33, 37, 41);
+   font-size: 13px;
+   opacity: 80%;
+}
+
+.offer-background {
+    background-color: rgb(248, 249, 250);
+    padding: 50px;
+    }
+
+a{
+    text-decoration: none;
+ }

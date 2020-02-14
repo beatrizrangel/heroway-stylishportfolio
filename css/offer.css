@@ -8,14 +8,14 @@
     font-size:14px;
     margin-top: 31px;
     border-radius: 3px;
-    height: 45px;
+
 }
 
 .center {
 display: flex;
 flex-direction: column;
 align-items: center;
-margin-top: 65px;
+margin-top: 40px;
 }
 
 .title-offer{

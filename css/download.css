@@ -1,0 +1,28 @@
+.background-welcome {
+    width: 100%;
+    height: 550px;
+}
+
+.btn-download {
+    background-color: rgb(44, 51, 255);
+    color:white;
+    border:none;
+    text-align: center;
+    padding: 20px;
+    font-family: arial;
+    font-size:14px;
+    margin-top: 31px;
+    border-radius: 3px;
+}
+
+.text {
+    font-size:30px;
+    color: rgb(33, 37, 41);
+}
+
+.content-welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+}
